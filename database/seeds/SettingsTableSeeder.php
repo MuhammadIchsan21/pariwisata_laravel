@@ -13,19 +13,19 @@ class SettingsTableSeeder extends Seeder
     {
         DB::table('settings')->insert([
             'setting_name' => 'app_name',
-            'setting_value' => 'BS Maps'
+            'setting_value' => 'BPN Maps'
         ]);
         DB::table('settings')->insert([
             'setting_name' => 'gmaps_api_key',
-            'setting_value' => 'fill use your api key'
+            'setting_value' => 'AIzaSyB2C8vk7iaIGmDNt-TfJDQ_mdcyc7VbtTE'
         ]);
         DB::table('settings')->insert([
             'setting_name' => 'latitude_centre',
-            'setting_value' => '-6.987237'
+            'setting_value' => '-1.2596973497754538'
         ]);
         DB::table('settings')->insert([
             'setting_name' => 'longitude_centre',
-            'setting_value' => '109.103146'
+            'setting_value' => '116.86977680682199'
         ]);
         DB::table('settings')->insert([
             'setting_name' => 'set_zoom',
