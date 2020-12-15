@@ -20,6 +20,7 @@
 - password : password
 
 Inspired By : (http://brilliansolution.com).
+Icon By (https://www.pngrepo.com/).
 
 ## About Laravel
 
