@@ -16,22 +16,8 @@
 - php artisan db:seed
 
 ## Default Login
-- username : admin@brilliansolution.com
-- password : Bismillah
-
-Dont forget to visit [my website](http://brilliansolution.com). Thanks a lot.
-## Front Page Home
-![alt text](https://github.com/brillianmusyafa/laravel-gmaps/blob/master/screenshoot/front.png?raw=true)
-## Dashboard
-![alt text](https://github.com/brillianmusyafa/laravel-gmaps/blob/master/screenshoot/dashboard.png?raw=true)
-## Category
-![alt text](https://github.com/brillianmusyafa/laravel-gmaps/blob/master/screenshoot/category-page.png?raw=true)
-## Maps
-![alt text](https://github.com/brillianmusyafa/laravel-gmaps/blob/master/screenshoot/maps-page.png?raw=true)
-## Maps - Create
-![alt text](https://github.com/brillianmusyafa/laravel-gmaps/blob/master/screenshoot/create-maps.png?raw=true)
-## Settings
-![alt text](https://github.com/brillianmusyafa/laravel-gmaps/blob/master/screenshoot/settings.png?raw=true)
+- username : admin@admin.com
+- password : password 
 
 ## About Laravel
 
