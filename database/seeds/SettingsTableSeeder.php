@@ -17,7 +17,7 @@ class SettingsTableSeeder extends Seeder
         ]);
         DB::table('settings')->insert([
             'setting_name' => 'gmaps_api_key',
-            'setting_value' => 'AIzaSyB2C8vk7iaIGmDNt-TfJDQ_mdcyc7VbtTE'
+            'setting_value' => 'isi api'
         ]);
         DB::table('settings')->insert([
             'setting_name' => 'latitude_centre',
